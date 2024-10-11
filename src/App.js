@@ -11,7 +11,7 @@ const App = () => {
       <header className="App-header">
         <h1 style={{ marginBottom: "0px" }}>Congratulations!!!</h1>
         <p style={{ marginTop: "10px", marginBottom: "50px" }}>
-          Go fuck yourself!.
+          Go fuck yourself!
         </p>
         <div>
           <a
